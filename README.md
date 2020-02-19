@@ -1,9 +1,10 @@
 # Biodiversity
 web page using github http server using JSON file to parse data and perform various analysis
+**Link:**
 **_https://juan-mpn.github.io/biodeversity/_**
 
 **Objectives**
-Create a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species.
+Creating a bar chart of the top ten bacterial species in a volunteer’s navel. Use JavaScript to select only the most populous species based on volunteer selection and updating all graphs.
 
 Create a bubble chart to visualize the relative frequency of all the bacterial species found in a volunteer’s navel.
 
