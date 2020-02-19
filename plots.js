@@ -85,7 +85,7 @@ function init() {
       };
     var layout = {
       title: 'Bellly Button Washing Frequency',
-      height: 600,
+      height: 600, 
       width: 500
 
     };
